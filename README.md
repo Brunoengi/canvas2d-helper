@@ -13,7 +13,7 @@
 
 <h3>1 - What is the project</h3>
 
-The project is a repository to manipulate the HTML Canvas tag for use in 2D projects. The project provides a class and yout types that makes it possible to create a set of geometric representations, such as lines, circles, rectangles, texts and other features for drawing.
+The project is a repository to manipulate the HTML Canvas tag for use in 2D projects. The project provides a class and your types that makes it possible to create a set of geometric representations, such as lines, circles, rectangles, texts and other features for drawing.
 
 <h3>2 - Install Instructions</h3>
 

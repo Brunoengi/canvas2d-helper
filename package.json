@@ -4,13 +4,27 @@
   "private": false,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dis/*"],
-  "scripts": {
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "files": [
+    "dis/*"
+  ],
+  "scripts": {},
+  "author": "Bruno Santos",
+  "license": "MIT",
+  "description": "A repository to manipulate the HTML Canvas tag for use in 2D projects",
   "devDependencies": {
     "typescript": "^5.4.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunoengi/canvas2d-helper.git"
+  },
+  "keywords": [
+    "canvas",
+    "html",
+    "2d"
+  ],
+  "bugs": {
+    "url": "https://github.com/Brunoengi/canvas2d-helper/issues"
+  },
+  "homepage": "https://github.com/Brunoengi/canvas2d-helper#readme"
 }
